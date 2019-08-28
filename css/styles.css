@@ -12,7 +12,7 @@
 	}
 
 	div#container {
-		background-color: #00FFFF;
+		background-color: gray;
 	}
 
   	p {
@@ -30,6 +30,7 @@
 
 	#p2 {
 		background-color: #5F9EA0;
+		color: white;
 	}
 
 	#p3 {
