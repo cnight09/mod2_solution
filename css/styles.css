@@ -1,14 +1,18 @@
 <styles>
+//*
 	* {
 		box-sizing: border-box;
 		font-family: Helvetica;
 		border: 1px solid black;
 	}
-
+*//
 	h1 {
 		margin-bottom: 15px;
 		font-size: 175%;
 		text-align: center;
+		box-sizing: border-box;
+		font-family: Helvetica;
+		border: 1px solid black;
 	}
 
 	div#container {
